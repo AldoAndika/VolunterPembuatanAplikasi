@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * aldoDicoding, [oo.or.id](https://oo.or.id).
+* Aldo Andika, [Linkedin](https://www.linkedin.com/in/Aldo-Andika/).
